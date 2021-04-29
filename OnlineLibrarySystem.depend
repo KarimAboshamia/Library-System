@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1606427663 source:c:\users\rocker\desktop\library_sytem\library\onlinelibrarysystem\book.cpp
+	"Book.h"
+
+1606427647 c:\users\rocker\desktop\library_sytem\library\onlinelibrarysystem\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+	<vector>
+
+1606426513 source:c:\users\rocker\desktop\library_sytem\library\onlinelibrarysystem\user.cpp
+	"User.h"
+
+1606426491 c:\users\rocker\desktop\library_sytem\library\onlinelibrarysystem\user.h
+	<cstring>
+	<iostream>
+
+1605988889 source:c:\users\rocker\desktop\library_sytem\library\onlinelibrarysystem\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	<vector>
+
+1606427663 source:c:\users\rocker\desktop\library_sytem\library\20190388\book.cpp
+	"Book.h"
+
+1606427647 c:\users\rocker\desktop\library_sytem\library\20190388\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+	<vector>
+
+1607461904 c:\users\rocker\desktop\library_sytem\library\20190388\user.h
+	<cstring>
+	<iostream>
+
+1605988889 source:c:\users\rocker\desktop\library_sytem\library\20190388\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	<vector>
+
+1607460872 source:c:\users\rocker\desktop\library_sytem\library\20190388\user.cpp
+	"User.h"
+
+1608631449 source:c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\book.cpp
+	"Book.h"
+
+1608582561 c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+	<vector>
+
+1608549044 c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\user.h
+	<cstring>
+	<iostream>
+
+1608839117 source:c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	<vector>
+	"UserList.h"
+	"BookList.h"
+
+1608593939 source:c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\user.cpp
+	"User.h"
+
+1608758823 source:c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\userlist.cpp
+	"UserList.h"
+	"User.h"
+
+1608840029 c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\userlist.h
+	<cstring>
+	<iostream>
+	"User.h"
+
+1608840438 c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\booklist.h
+	"Book.h"
+
+1608760006 source:c:\users\rocker\desktop\university\c++\oop\library_sytem\library\20190388\booklist.cpp
+	"BookList.h"
+
+1608880594 source:c:\users\rocker\desktop\new folder\20190388\book.cpp
+	"Book.h"
+
+1608880594 c:\users\rocker\desktop\new folder\20190388\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+	<vector>
+
+1608549044 c:\users\rocker\desktop\new folder\20190388\user.h
+	<cstring>
+	<iostream>
+
+1608880623 source:c:\users\rocker\desktop\new folder\20190388\booklist.cpp
+	"BookList.h"
+
+1608840438 c:\users\rocker\desktop\new folder\20190388\booklist.h
+	"Book.h"
+
+1608880594 source:c:\users\rocker\desktop\new folder\20190388\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	<vector>
+	"UserList.h"
+	"BookList.h"
+
+1608840029 c:\users\rocker\desktop\new folder\20190388\userlist.h
+	<cstring>
+	<iostream>
+	"User.h"
+
+1608593939 source:c:\users\rocker\desktop\new folder\20190388\user.cpp
+	"User.h"
+
+1608758823 source:c:\users\rocker\desktop\new folder\20190388\userlist.cpp
+	"UserList.h"
+	"User.h"
+
